@@ -18,7 +18,7 @@ Piccolo 3d is a free and opensource
 - connector ATX on board 
 
 work in progress
-
+https://www.youtube.com/watch?v=6lNAoHWNY6c
 
 
 
